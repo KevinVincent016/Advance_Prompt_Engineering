@@ -1,0 +1,28 @@
+{
+  "proyecto": {
+    "nombre": "Proyecto Fénix",
+    "presupuesto": {
+      "monto": 25000,
+      "moneda": "USD"
+    }
+  },
+  "reunion": {
+    "fecha": "2024-10-15",
+    "hora": "10:30",
+    "ubicacion": "Sala Júpiter"
+  },
+  "asistentes": [
+    { 
+      "nombre": "Ana García",
+      "rol": "Líder de Proyecto"
+    },
+    {
+      "nombre": "Carlos Rodríguez",
+      "rol": "Desarrollador Principal"
+    },
+    {
+      "nombre": "Elena Fernández",
+      "rol": "Diseñadora UX"
+    }
+  ]
+}

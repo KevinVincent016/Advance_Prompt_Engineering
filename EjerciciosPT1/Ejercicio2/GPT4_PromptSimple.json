@@ -1,0 +1,25 @@
+{
+  "proyecto": "Fénix",
+  "evento": "Reunión de lanzamiento",
+  "fecha": "2024-10-15",
+  "hora": "10:30 AM",
+  "lugar": "Sala Júpiter",
+  "asistentes": [
+    {
+      "nombre": "Ana García",
+      "rol": "Líder de Proyecto"
+    },
+    {
+      "nombre": "Carlos Rodríguez",
+      "rol": "Desarrollador Principal"
+    },
+    {
+      "nombre": "Elena Fernández",
+      "rol": "Diseñadora UX"
+    }
+  ],
+  "presupuesto": {
+    "monto": 25000,
+    "moneda": "USD"
+  }
+}
